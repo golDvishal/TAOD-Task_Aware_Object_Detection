@@ -86,7 +86,7 @@ Finally, the hardware performs an **ArgMax** operation to select:
 │
 └── doc/
     ├── Report
-    ├── AXI Documentation
+    ├── AXI_Interface_Details
     └── Figures
 ```
 
